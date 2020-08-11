@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## This is my Zone!
 
-You can use the [editor on GitHub](https://github.com/JosephEM/github-slideshow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You'll find a whole lot of things about me if you stay long enough
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am only a newbie with dreams of becoming a worldclass programmer. 
 
-### Markdown
+### Personal Profile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Joseph Essuman-Mensah is my name. I am from Ghana in West-Africa. 
+I am 23 years old and a graduate of Kwame Nkrumah University of Science and Technology, Kumasi.
+**I hold a degree in Natural Resource Management.** 
+I have deep interests in sports and music
+I have a dream of bridging the gap between _natural resources and technology._
 
-```markdown
-Syntax highlighted code block
 
-# Hello
-## Welcome to MywORLD 
-### I am just a newbie with Big dreams
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JosephEM/github-slideshow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
